@@ -10,6 +10,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: victorhd2014@gmail.com
 - 😄 Pronouns: He/Him
 
+##
+
 <div align="center">
   <a href="https://github.com/VictorDuart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorDuart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
